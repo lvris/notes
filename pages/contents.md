@@ -1,2 +1,2 @@
-## [[日语]]
-## [[JavaScript]]
+- [[日语]]
+- [[JavaScript]]
