@@ -1,0 +1,15 @@
+- [[JavaScript]]  中的一种**基本**变量类型
+- 进制 - base
+	- 字面量: `0x``0o``0b`
+	- 字符串: `num.toString(base)`
+	- 解析: `parseInt(str, base)``pareFloat(str)`
+- 值 - value
+	- [[IEEE-754]]
+		- 小心**浮点误差**
+		- 舍入: `num.toFixed(precision)``Math.round(num)``Math.trunc(num)`
+	- 特殊值
+		- ((611e76d8-5239-47bd-9c65-417e64a71568))
+		- ((611e76d8-ce1c-4e92-8fc6-b34acf55b60f))
+	- 测试
+		- `isFinite(value)`: 转换为数字后判断是否为特殊值
+		- `isNaN(value)`:  转换为数字后判断是否为 NaN

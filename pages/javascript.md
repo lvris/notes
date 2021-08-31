@@ -3,4 +3,5 @@ title: JavaScript
 alias: JS
 ---
 
-- 临时用学习连接
+	- [[[[JavaScript]] 变量]]
+	-
