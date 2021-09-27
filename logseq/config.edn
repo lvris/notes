@@ -81,4 +81,4 @@
  :macros {}
    :ui/show-brackets? false
    :editor/logical-outdenting? true
-   :markdown/version 2 :shortcuts {:auto-complete/complete "tab", :go/search-in-page "shift+ctrl+f", :editor/cut "shift+ctrl+x", :go/search "ctrl+f", :command-palette/toggle "shift+ctrl+p", :editor/move-block-up "alt+up", :editor/move-block-down "alt+down", :editor/copy "shift+ctrl+c", :editor/clear-block "shift+ctrl+k"}}
+   :markdown/version 2 :shortcuts {:auto-complete/complete "tab", :go/search-in-page "shift+ctrl+f", :editor/cut "shift+ctrl+x", :go/search "ctrl+f", :editor/move-block-up "alt+up", :editor/move-block-down "alt+down", :editor/copy "shift+ctrl+c", :editor/clear-block "shift+ctrl+k"}}
